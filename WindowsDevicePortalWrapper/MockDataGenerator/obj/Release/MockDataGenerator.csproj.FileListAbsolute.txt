@@ -1,0 +1,11 @@
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\bin\Release\MockDataGenerator.exe.config
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\bin\Release\MockDataGenerator.exe
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\bin\Release\MockDataGenerator.pdb
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\bin\Release\WindowsDevicePortalWrapper.dll
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\bin\Release\WindowsDevicePortalWrapper.pdb
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\bin\Release\WindowsDevicePortalWrapper.xml
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\obj\Release\MockDataGenerator.csproj.AssemblyReference.cache
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\obj\Release\MockDataGenerator.csproj.CoreCompileInputs.cache
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\obj\Release\MockDataGenerator.csproj.CopyComplete
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\obj\Release\MockDataGenerator.exe
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\MockDataGenerator\obj\Release\MockDataGenerator.pdb
