@@ -1,0 +1,2 @@
+C:\Users\STEE\Documents\Work\WindowDevicePortal\Samples\SampleWdpClient.UniversalWindows\SampleWdpClient.UniversalWindows.csproj;x86
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper.UniversalWindows\WindowsDevicePortalWrapper.UniversalWindows.csproj;neutral
