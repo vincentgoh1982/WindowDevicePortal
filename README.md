@@ -1,8 +1,8 @@
 <p align="center">
   <img height="200" src="icon.png" alt="Vincent logo">
-  <h1 align="center">C-Sharp-Tip-and-Example</h1>
+  <h1 align="center">[Window Device Portal Wrapper Modify</h1>
 </p>
-<p align="center">Description: For easy to understand by using example and grab code instantly. For Learning purpose.
+<p align="center">Description: Example of getting the map list and continous on get the map and install the map.
 </p>
 
 ---
