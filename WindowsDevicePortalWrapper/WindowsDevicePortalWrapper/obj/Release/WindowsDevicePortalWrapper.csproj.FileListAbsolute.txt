@@ -1,0 +1,7 @@
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper\bin\Release\WindowsDevicePortalWrapper.xml
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper\bin\Release\WindowsDevicePortalWrapper.dll
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper\bin\Release\WindowsDevicePortalWrapper.pdb
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper\obj\Release\WindowsDevicePortalWrapper.csproj.AssemblyReference.cache
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper\obj\Release\WindowsDevicePortalWrapper.csproj.CoreCompileInputs.cache
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper\obj\Release\WindowsDevicePortalWrapper.dll
+C:\Users\STEE\Documents\Work\WindowDevicePortal\WindowsDevicePortalWrapper\WindowsDevicePortalWrapper\obj\Release\WindowsDevicePortalWrapper.pdb
