@@ -14,7 +14,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Microsoft.Tools.WindowsDevicePortal
-
+{ 
     ///Add by ST Engineer
     /// <content>
     /// HTTP GET Wrapper
